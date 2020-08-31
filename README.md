@@ -1,8 +1,8 @@
 <p align=center>
-	<img src="https://raw.githubusercontent.com/ryeenii/dotnii-st/master/icon/readme/dotnii.png" width="300">
+	<img src="https://raw.githubusercontent.com/ryeenii/dotnii-st/master/readme/dotnii.png" width="300">
 </p>
 <p align=center>
-	<img src="https://raw.githubusercontent.com/ryeenii/dotnii-st/master/icon/readme/dotnii-st.png" width="250">
+	<img src="https://raw.githubusercontent.com/ryeenii/dotnii-st/master/readme/dotnii-st.png" width="250">
 </p>
 <h1 align=center>
 dotnii - st
