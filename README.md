@@ -30,7 +30,7 @@ Also known as the "Friendship Absurdly Destroyed with URxvt" terminal.
 	<br> 
 	<br> 
 	Clone the project using: <code> git clone https://github.com/ryeenii/dotnii-st</code>
-	</p>
+	<br>
 	And then to make/compile the binary, just use <code>make</code>.   
 	<br>   
 	In order to make it easier to apply additional patches or change some of the configuration files, there is a really simple script in the repo that removes the existing config.h (keeping only your edited config.def.h), compiles and installs the package immediatly.  
