@@ -21,7 +21,7 @@ Also known as the "Friendship Absurdly Destroyed with URxvt" terminal.
 </p> 
 <h2 align=center> Installation </h2> 
 <p align=center> 
-	Installing this fork shouldn't be that difficult. In fact, I even commited some small things in order to help you out on the process. 
+	Installing this fork shouldn't be that difficult. The instructions should be the same procedure.
 	<br> 
 	<br> 
 	Clone the project using: <code> git clone https://github.com/ryeenii/dotnii-st</code>
