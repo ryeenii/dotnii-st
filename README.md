@@ -13,11 +13,6 @@ Also known as the "Friendship Absurdly Destroyed with URxvt" terminal.
 </i>
 </h4>
 <br> 
-<h2 align=center> Contents: </h2>
-<ol align=center>	
-	<li> Overview</li>	
-	<li> Installation</li>
-</ol> 
 <h2 align=center> Overview </h2> 
 <p align=center> 
 	This is a fork of suckless' st (simple terminal) program, mainly made to substitute my daily-usage terminal emulator for the past few months, rxvt-unicode. The main reason for this subtle change is mainly because of simplicity in questions of how patches are handled in suckless content and also because of a pleothra of issues I was having in the past with rxvt-unicode as a whole. 
