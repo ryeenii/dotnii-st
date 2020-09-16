@@ -16,6 +16,7 @@ options:
 	@echo "CC      = $(CC)"
 
 config.h:
+	rm -rf config.h
 	cp config.def.h config.h
 
 .c.o:
